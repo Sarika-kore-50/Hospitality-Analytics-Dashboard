@@ -11,33 +11,38 @@ Realisation % (~5%)
 Cancellations (~25%)
 The dashboard enables management to compare business vs luxury categories, evaluate booking platforms, and analyze weekly revenue trends, helping drive data-driven pricing and occupancy strategies.
 
-🚀 Key Insights
-💰 Mumbai properties generate the highest revenue, followed by Delhi and Hyderabad.
-🛏 Luxury hotels achieve higher ADR (₹12,696) but lower occupancy % compared to Business hotels.
-📅 Weekend occupancy is higher than weekdays, indicating strong leisure demand.
-🌐 Direct online bookings deliver better realisation % compared to offline and third-party platforms.
-📊 Weekly trend analysis (W20–W32) shows Luxury contributes ~62% of revenue, with peaks in Week 28.
+## Key Insights  
+- **Top-performing city:** Mumbai leads in revenue, followed by Delhi and Hyderabad.  
+- **Luxury vs Business:** Luxury hotels command higher ADR but lower occupancy.  
+- **Weekend vs Weekday:** Higher occupancy on weekends, indicating leisure-driven demand.  
+- **Booking Channels:** Direct online bookings deliver stronger realisation percentages.  
+- **Weekly Trends:** Luxury hotels contribute ~62% of revenue, with notable peaks such as Week 28.
 
-📷 Dashboard Preview
-Page 1 – Executive Overview
-Page 2 – Weekly Revenue Trends
+---
 
-🛠 Tools & Techniques
-Power BI Desktop → Dashboard creation & visualization
-Power Query → Data transformation & cleaning
-DAX (Data Analysis Expressions) → Custom KPIs (RevPAR, ADR, Realisation %)
-Data Storytelling → Translating metrics into business insights
+## Dashboard Preview  
 
-📌 Why This Project Matters
-This dashboard demonstrates my ability to:
-Transform raw hotel booking data into business-ready KPIs
-Build interactive dashboards with filters & drill-downs
-Provide actionable insights for hotel revenue & occupancy management
-Apply data analytics + hospitality industry knowledge to solve real business problems
+### Executive Overview  
+![Overview Dashboard](overview-dashboard.png)
 
-🎯 Business Impact
-This project highlights how Power BI dashboards can support the hospitality industry by:
-Optimizing pricing strategies (based on ADR & RevPAR)
-Improving occupancy by identifying demand patterns
-Enhancing channel performance (focus on direct online)
-Reducing cancellations through data-driven interventions
+### Weekly Revenue Trends  
+![Weekly Revenue Trends](revenue-by-category.png)
+
+*(Full dashboard available in the `.pbit` file.)*
+
+---
+
+## Tools & Techniques  
+- **Power BI Desktop** – Design & visualization  
+- **Power Query** – Data cleaning & transformation  
+- **DAX** – KPI computations (e.g., RevPAR, ADR, Realisation %)  
+- **Data Storytelling** – Translating metrics into strategic insights
+
+---
+
+## Why This Project Matters  
+Showcases how data analytics can enable actionable insights in the hospitality sector — from demand patterns and pricing strategy to channel effectiveness.
+
+---
+
+*This project demonstrates my proficiency in Power BI, data modeling, and strategic analytics.* 
