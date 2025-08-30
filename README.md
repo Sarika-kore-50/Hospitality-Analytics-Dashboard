@@ -39,6 +39,12 @@ The dashboard enables management to compare business vs luxury categories, evalu
 - **Data Storytelling** – Translating metrics into strategic insights
 
 ---
+### How to Use
+1. Download `Hospitality-Analytics-Dashboard.pbit`.
+2. Open in Power BI Desktop.
+3. Connect your own dataset or use the provided sample CSVs.
+4. Refresh → Interact with filters and visuals.
+
 
 ## Why This Project Matters  
 Showcases how data analytics can enable actionable insights in the hospitality sector — from demand patterns and pricing strategy to channel effectiveness.
